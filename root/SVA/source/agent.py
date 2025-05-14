@@ -22,6 +22,6 @@ model = GigaChat(
     max_tokens=6000
 )
 
-response = model.invoke([HumanMessage(content="Где самые вкусные чизбургеры?")])
+response = model.invoke([HumanMessage(content="Пусть тебя зовут Эсва. Представься")])
 console = Console()
 console.print(response)
