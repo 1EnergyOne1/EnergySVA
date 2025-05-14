@@ -1,0 +1,7 @@
+langchain_gigachat
+langchain-community
+langgraph
+langgraph-checkpoint
+langgraph-cli
+langgraph-sdk
+langchain_chroma
